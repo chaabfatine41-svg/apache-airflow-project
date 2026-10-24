@@ -1,5 +1,7 @@
+# Apache Airflow
 
-## Apache Airflow
+Présentation académique du projet Apache Airflow : orchestration des workflows de données, concepts des DAGs, types d’Operators, architecture et fonctionnement.
+
 ## Présentation du projet
 
 Ce projet présente Apache Airflow, une plateforme open source permettant d’orchestrer, de planifier et de surveiller des workflows de données à l’aide de DAGs (Directed Acyclic Graphs).
